@@ -8,10 +8,10 @@
 
 ## 💼 About Me
 
-- 🎓 Final-year Computer Science student passionate about building full-stack applications and diving into data-driven solutions.
-- 💡 I love solving real-world problems through code and AI/ML.
+- 🎓 Final-year Computer Science student passionate about building full-stack applications and exploring data-driven solutions.
+- 💡 I enjoy solving real-world problems through code and machine learning.
 - 🌱 Currently learning: Next.js, MLOps, and Advanced System Design.
-- 👨‍💻 Open to internships, freelance projects, and collaboration.
+- 👨‍💻 Open to internships, freelance projects, and collaborative opportunities.
 
 ---
 
@@ -44,25 +44,21 @@
 
 ### 📧 [Email Campaign Manager](https://github.com/morerohan0037/Email-Campaign-Manager)
 > A full-stack application to manage email campaigns, segment audiences, and track analytics.  
-> **Stack:** Node.js, Express, MongoDB, React, Mailgun API
+> **Stack:** Node.js, Express, MongoDB, React, Redis Queues
 
-### 📊 [Social Media Analytics Dashboard](https://github.com/morerohan0037/Social-Analytics)
-> A MERN-based dashboard that connects to social APIs and visualizes engagement metrics.  
-> **Stack:** MERN, Chart.js, Material UI
+### 🏠 [Estate Listing](https://github.com/morerohan0037/Estate-listing)
+> A MERN-based platform for listing properties, viewing listings, and posting reviews.  
+> **Stack:** MERN, Material UI, Cloudinary
 
-### 🛒 [E-Commerce Platform (MERN)](https://github.com/morerohan0037/E-Commerce-MERN)
-> A complete MERN stack e-commerce application with authentication, cart, checkout, and admin dashboard.  
-> **Stack:** MongoDB, Express, React, Node, JWT, PayPal API
-
-### 🤖 [ML Model Hub](https://github.com/morerohan0037/ML-Model-Hub)
-> Collection of ML models including regression, classification, and NLP projects, deployed using Streamlit.  
-> **Stack:** Python, scikit-learn, Streamlit
+### 🏏 [IPL Analysis](https://github.com/morerohan0037/IPL-Analysis)
+> ML-powered data analysis and visualization of IPL matches with classification and NLP models.  
+> **Stack:** Python, scikit-learn, Pandas, Matplotlib
 
 ---
 
 ## 📂 Other Profiles
 
-- 🧮 [DSA Practice in C++](https://leetcode.com/u/RohanMore0037/)
+- 🧮 [DSA Practice in C++ on LeetCode](https://leetcode.com/u/RohanMore0037/)
 
 ---
 
@@ -87,7 +83,7 @@
 
 ## 💡 Fun Fact
 
-> I love building side projects, and I love clean UI and optimization challenges 🚀
+> I love building side projects, and I’m passionate about clean UI and optimization challenges. 🚀
 
 ---
 
