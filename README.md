@@ -60,12 +60,9 @@
 
 ---
 
-## 📂 Other Notable Repositories
+## 📂 Other Profiles
 
-- 🧮 [DSA Practice in JavaScript](https://github.com/morerohan0037/DSA-JS)
-- 🗃️ [Portfolio Website (Next.js)](https://github.com/morerohan0037/portfolio-nextjs)
-- 📚 [ML Notes & Notebooks](https://github.com/morerohan0037/ml-notebooks)
-- 📊 [COVID-19 Data Tracker (API + Charts)](https://github.com/morerohan0037/covid-dashboard)
+- 🧮 [DSA Practice in C++](https://leetcode.com/u/RohanMore0037/)
 
 ---
 
@@ -82,17 +79,15 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=red"></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome"></a>
+  <a href="mailto:morerohan0037@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=red"></a>
+  <a href="https://www.linkedin.com/in/rohan-more-9963862ba/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
 
 ## 💡 Fun Fact
 
-> I love building side projects, and I'm a sucker for clean UI and optimization challenges 🚀
+> I love building side projects, and I love clean UI and optimization challenges 🚀
 
 ---
 
